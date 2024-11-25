@@ -9,6 +9,6 @@ cursor = connection.cursor()
 query = """ SELECT * FROM Customer limit 100"""
 
 df=pd.read_sql_query(query,connection)
-
 print(df.head())
+
 connection.close()
