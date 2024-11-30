@@ -1,0 +1,877 @@
+1732938232361	geckodriver	INFO	Listening on 127.0.0.1:54766
+1732938235456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileNwoohp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732938235964	Marionette	INFO	Marionette enabled
+1732938236167	Marionette	INFO	Listening on port 54777
+WebDriver BiDi listening on ws://127.0.0.1:54767
+Read port: 54777
+1732938236490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54767/devtools/browser/9d22c099-0107-4722-8d31-95442ee7ee34
+1732938249638	Marionette	INFO	Stopped listening on port 54777
+Dynamically enable window occlusion 1
+1732938415375	geckodriver	INFO	Listening on 127.0.0.1:54923
+1732938418424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54924" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileo7NHQI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732938418811	Marionette	INFO	Marionette enabled
+1732938418949	Marionette	INFO	Listening on port 54932
+WebDriver BiDi listening on ws://127.0.0.1:54924
+Read port: 54932
+1732938419167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54924/devtools/browser/d7fe9dc5-1f87-4d90-8824-d1e6139ff173
+1732938432176	Marionette	INFO	Stopped listening on port 54932
+Dynamically enable window occlusion 1
+1732941507120	geckodriver	INFO	Listening on 127.0.0.1:57237
+1732941510191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57238" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile6TVKnO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732941510611	Marionette	INFO	Marionette enabled
+1732941510750	Marionette	INFO	Listening on port 57247
+WebDriver BiDi listening on ws://127.0.0.1:57238
+Read port: 57247
+1732941510976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57238/devtools/browser/b271d4c8-c79e-4b7d-8ace-c3a48778a7fb
+JavaScript error: https://www.bbc.com/bbcx/_next/static/chunks/main-3838744298e667de.js, line 1: TypeError: t is undefined
+JavaScript warning: https://uk-script.dotmetrics.net/door.js?d=www.bbc.com&t=homestudio, line 264: unreachable code after return statement
+JavaScript warning: https://uk-script.dotmetrics.net/door.js?d=www.bbc.com&t=homestudio, line 264: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 601 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732941525166	Marionette	INFO	Stopped listening on port 57247
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1732942952529	geckodriver	INFO	Listening on 127.0.0.1:58351
+1732942955595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58352" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileplfCFG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732942955997	Marionette	INFO	Marionette enabled
+1732942956142	Marionette	INFO	Listening on port 58363
+WebDriver BiDi listening on ws://127.0.0.1:58352
+Read port: 58363
+1732942956378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58352/devtools/browser/46b1f1dd-6402-4c59-bbe0-c4a381e96dfd
+1732942986933	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js, line 1: Script terminated by timeout at:
+o@https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js:1:96438
+78018/F/<@https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js:1:96917
+r@https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js:1:92651
+
+1732943225287	Marionette	INFO	Stopped listening on port 58363
+Dynamically enable window occlusion 1
+Z_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732943064409	Marionette	INFO	Marionette enabled
+1732943064556	Marionette	INFO	Listening on port 58482
+WebDriver BiDi listening on ws://127.0.0.1:58472
+Read port: 58482
+1732943064786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58472/devtools/browser/63a40a87-aa10-4342-8c39-c2427d72f6f2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://duckduckgo.com."
+1732943094429	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript warning: https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js, line 1: Script terminated by timeout at:
+o@https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js:1:96438
+78018/F/<@https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js:1:96917
+r@https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js:1:92651
+
+1732943221621	Marionette	INFO	Stopped listening on port 58482
+Dynamically enable window occlusion 1
+1732943231117	geckodriver	INFO	Listening on 127.0.0.1:58628
+1732943234173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58629" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilec10ARm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732943234596	Marionette	INFO	Marionette enabled
+1732943234741	Marionette	INFO	Listening on port 58639
+WebDriver BiDi listening on ws://127.0.0.1:58629
+Read port: 58639
+1732943234971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58629/devtools/browser/6ea7eb29-25cf-4cc6-bcd2-5ca9411a1ffd
+JavaScript warning: https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js, line 1: Script terminated by timeout at:
+o@https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js:1:96438
+78018/F/<@https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js:1:96917
+r@https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js:1:92651
+
+1732943250049	Marionette	INFO	Stopped listening on port 58639
+Dynamically enable window occlusion 1
+1732943324274	geckodriver	INFO	Listening on 127.0.0.1:58733
+1732943327326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58734" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileT58O2V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732943327744	Marionette	INFO	Marionette enabled
+1732943327892	Marionette	INFO	Listening on port 58744
+WebDriver BiDi listening on ws://127.0.0.1:58734
+Read port: 58744
+1732943328129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58734/devtools/browser/21b10d06-6c58-4f7a-bdae-fb7fca3cc1d2
+1732943359319	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1732943384637	Marionette	INFO	Stopped listening on port 58744
+Dynamically enable window occlusion 1
+1732943390084	geckodriver	INFO	Listening on 127.0.0.1:58831
+1732943393134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58832" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilezVUe9L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732943393548	Marionette	INFO	Marionette enabled
+1732943393695	Marionette	INFO	Listening on port 58841
+WebDriver BiDi listening on ws://127.0.0.1:58832
+Read port: 58841
+1732943393918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58832/devtools/browser/34c2801a-6a7b-46ca-870a-8d478b0241a4
+1732943424432	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js, line 1: Script terminated by timeout at:
+o@https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js:1:96438
+78018/F/<@https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js:1:96917
+r@https://duckduckgo.com/_next/static/chunks/main-d4b13818a262f8be.js:1:92651
+
+1732943780372	Marionette	INFO	Stopped listening on port 58841
+Dynamically enable window occlusion 1
+Z_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732943450766	Marionette	INFO	Marionette enabled
+1732943450911	Marionette	INFO	Listening on port 58931
+WebDriver BiDi listening on ws://127.0.0.1:58922
+Read port: 58931
+1732943451136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58922/devtools/browser/3fa3a140-16d3-478e-bd31-812e9dcb6351
+1732943463544	Marionette	INFO	Stopped listening on port 58931
+Dynamically enable window occlusion 1
+1732943763564	geckodriver	INFO	Listening on 127.0.0.1:59189
+1732943766630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59190" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileaYHbyN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732943767026	Marionette	INFO	Marionette enabled
+1732943767163	Marionette	INFO	Listening on port 59200
+WebDriver BiDi listening on ws://127.0.0.1:59190
+Read port: 59200
+1732943767384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59190/devtools/browser/524c71a1-02b5-4367-9a6d-e08dd23b0b22
+JavaScript warning: https://duckduckgo.com/dist/util/u.5417722e732c999323af.js, line 1: Script terminated by timeout at:
+fire@https://duckduckgo.com/dist/util/u.5417722e732c999323af.js:1:19531
+ready/<@https://duckduckgo.com/dist/g.87af0cd1731ceffaa9f0.js:1:104182
+
+1732943776775	Marionette	INFO	Stopped listening on port 59200
+Dynamically enable window occlusion 1
+1732943802786	geckodriver	INFO	Listening on 127.0.0.1:59295
+1732943805863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59296" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileLUbk55"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732943806691	Marionette	INFO	Marionette enabled
+1732943807017	Marionette	INFO	Listening on port 59308
+WebDriver BiDi listening on ws://127.0.0.1:59296
+Read port: 59308
+1732943807183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59296/devtools/browser/eb719a0c-2b25-4770-9dc2-83c25f5c70a3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1732943837512	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+JavaScript warning: https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-0b5e12-889cec8cf448.js, line 31: Script terminated by timeout at:
+c@https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-0b5e12-889cec8cf448.js:31:8553
+57226/U/</<@https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-0b5e12-889cec8cf448.js:31:8940
+t@https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-0b5e12-889cec8cf448.js:31:3904
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1732945101542	Marionette	INFO	Stopped listening on port 59308
+Dynamically enable window occlusion 1
+ette	INFO	Stopped listening on port 59424
+Dynamically enable window occlusion 1
+1732945109699	geckodriver	INFO	Listening on 127.0.0.1:60358
+1732945112763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiletkmaKi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732945113147	Marionette	INFO	Marionette enabled
+1732945113281	Marionette	INFO	Listening on port 60369
+WebDriver BiDi listening on ws://127.0.0.1:60359
+Read port: 60369
+1732945113499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60359/devtools/browser/fab582e9-29f6-440c-b388-2a150b129628
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1732945144000	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1732945220072	Marionette	INFO	Stopped listening on port 60369
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60460" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileh0lVZE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732945172231	Marionette	INFO	Marionette enabled
+1732945172365	Marionette	INFO	Listening on port 60469
+WebDriver BiDi listening on ws://127.0.0.1:60460
+Read port: 60469
+1732945172555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60460/devtools/browser/6eedb2b2-a1a4-4fa5-a7fd-d867809cb612
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1732945203079	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1732945218699	Marionette	INFO	Stopped listening on port 60469
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60548" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileR4BFC9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732945206717	Marionette	INFO	Marionette enabled
+1732945206848	Marionette	INFO	Listening on port 60559
+WebDriver BiDi listening on ws://127.0.0.1:60548
+Read port: 60559
+1732945207045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60548/devtools/browser/310a859a-1c7d-4d6b-81ad-679c48b1a860
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1732945215195	Marionette	INFO	Stopped listening on port 60559
+Dynamically enable window occlusion 1
+1732945259996	geckodriver	INFO	Listening on 127.0.0.1:60696
+1732945263063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60697" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileJOrxd7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732945263437	Marionette	INFO	Marionette enabled
+1732945263576	Marionette	INFO	Listening on port 60707
+WebDriver BiDi listening on ws://127.0.0.1:60697
+Read port: 60707
+1732945263793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60697/devtools/browser/e384f32d-bef4-4314-a17c-100c33584187
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1732945293482	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1732945385569	Marionette	INFO	Stopped listening on port 60707
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilek80eKv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732945359584	Marionette	INFO	Marionette enabled
+1732945359719	Marionette	INFO	Listening on port 60833
+Read port: 60833
+WebDriver BiDi listening on ws://127.0.0.1:60823
+1732945359795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60823/devtools/browser/261cad5a-d06d-4b41-9284-57c0973c95b8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1732945389805	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+JavaScript warning: https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-0b5e12-889cec8cf448.js, line 31: Script terminated by timeout at:
+c@https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-0b5e12-889cec8cf448.js:31:8553
+57226/U/</<@https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-0b5e12-889cec8cf448.js:31:8940
+t@https://github.githubassets.com/assets/vendors-node_modules_github_quote-selection_dist_index_js-node_modules_github_session-resume_-0b5e12-889cec8cf448.js:31:3904
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1732945548894	Marionette	INFO	Stopped listening on port 60833
+Dynamically enable window occlusion 1
+1732945578877	geckodriver	INFO	Listening on 127.0.0.1:61032
+1732945581951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilemRub4v"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732945582333	Marionette	INFO	Marionette enabled
+1732945582475	Marionette	INFO	Listening on port 61043
+WebDriver BiDi listening on ws://127.0.0.1:61033
+Read port: 61043
+1732945582694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61033/devtools/browser/c840ef46-e3d1-4ce3-87fa-5b8396d52222
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1732945613199	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1732946101434	Marionette	INFO	Stopped listening on port 61043
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61120" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilejKOg8b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732945617214	Marionette	INFO	Marionette enabled
+1732945617345	Marionette	INFO	Listening on port 61128
+WebDriver BiDi listening on ws://127.0.0.1:61120
+Read port: 61128
+1732945617542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61120/devtools/browser/06506b39-645b-4c3a-9ccd-2f2d78e924b1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1732945647738	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1732946100121	Marionette	INFO	Stopped listening on port 61128
+Dynamically enable window occlusion 1
+profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilexnHF9S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732945645180	Marionette	INFO	Marionette enabled
+1732945645313	Marionette	INFO	Listening on port 61209
+Read port: 61209
+WebDriver BiDi listening on ws://127.0.0.1:61199
+1732945645390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61199/devtools/browser/4629c0b9-7a64-49fe-9a9c-9667be457e5f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://github.com."
+1732945675191	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1732946098810	Marionette	INFO	Stopped listening on port 61209
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61622" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileMrspPc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732946060194	Marionette	INFO	Marionette enabled
+1732946060332	Marionette	INFO	Listening on port 61632
+WebDriver BiDi listening on ws://127.0.0.1:61622
+Read port: 61632
+1732946060556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61622/devtools/browser/cdb2ee11-7bbb-4530-b5e3-4d7629414445
+1732946091071	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1732946097671	Marionette	INFO	Stopped listening on port 61632
+Dynamically enable window occlusion 1
+1732946104913	geckodriver	INFO	Listening on 127.0.0.1:61714
+1732946107963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61715" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilei86f4u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732946108353	Marionette	INFO	Marionette enabled
+1732946108488	Marionette	INFO	Listening on port 61725
+WebDriver BiDi listening on ws://127.0.0.1:61715
+Read port: 61725
+1732946108709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61715/devtools/browser/de1d6ea6-b6e7-4e5e-85a0-b53824906ba6
+1732946139031	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1732946141810	Marionette	INFO	Stopped listening on port 61725
+Dynamically enable window occlusion 1
+1732946145729	geckodriver	INFO	Listening on 127.0.0.1:61801
+1732946148777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61802" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilemu5Vok"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732946149168	Marionette	INFO	Marionette enabled
+1732946149301	Marionette	INFO	Listening on port 61813
+WebDriver BiDi listening on ws://127.0.0.1:61802
+Read port: 61813
+1732946149515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61802/devtools/browser/4157e300-b354-4c66-be70-6cc1993f99ec
+1732946179239	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1732946219291	Marionette	INFO	Stopped listening on port 61813
+Dynamically enable window occlusion 1
+1732946889114	geckodriver	INFO	Listening on 127.0.0.1:62326
+1732946892166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile6LX2EC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732946892548	Marionette	INFO	Marionette enabled
+1732946892685	Marionette	INFO	Listening on port 62338
+WebDriver BiDi listening on ws://127.0.0.1:62327
+Read port: 62338
+1732946892905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62327/devtools/browser/d4360416-b38b-47ff-b824-eab264f864eb
+1732946922791	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1732946932351	Marionette	INFO	Stopped listening on port 62338
+Dynamically enable window occlusion 1
+1732948348466	geckodriver	INFO	Listening on 127.0.0.1:58513
+1732948351530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58514" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilec2F3lJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732948351918	Marionette	INFO	Marionette enabled
+1732948352058	Marionette	INFO	Listening on port 58523
+WebDriver BiDi listening on ws://127.0.0.1:58514
+Read port: 58523
+1732948352276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58514/devtools/browser/4244e22c-dbb4-4924-aa52-16567441d4e4
+1732948382051	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 565))
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 565))
+JavaScript error: resource:///modules/FaviconLoader.sys.mjs, line 581: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.sys.mjs, line 581: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1732948394363	Marionette	INFO	Stopped listening on port 58523
+Dynamically enable window occlusion 1
+1732948637748	geckodriver	INFO	Listening on 127.0.0.1:58741
+1732948640819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58742" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileKD4tXv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732948641204	Marionette	INFO	Marionette enabled
+1732948641337	Marionette	INFO	Listening on port 58751
+WebDriver BiDi listening on ws://127.0.0.1:58742
+Read port: 58751
+1732948641558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58742/devtools/browser/bd00e472-62cd-4dac-91ef-918fb0395df1
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-JLJFWVDS10, line 576: Script terminated by timeout at:
+h.Uh@https://www.googletagmanager.com/gtag/js?id=G-JLJFWVDS10:576:487
+get@https://www.googletagmanager.com/gtag/js?id=G-JLJFWVDS10:575:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-JLJFWVDS10:575:87
+h.xl/c/<@https://www.googletagmanager.com/gtag/js?id=G-JLJFWVDS10:575:410
+
+1732948647803	Marionette	INFO	Stopped listening on port 58751
+Dynamically enable window occlusion 1
+1732948765749	geckodriver	INFO	Listening on 127.0.0.1:58890
+1732948768829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileAKZwe2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732948769224	Marionette	INFO	Marionette enabled
+1732948769359	Marionette	INFO	Listening on port 58900
+WebDriver BiDi listening on ws://127.0.0.1:58891
+Read port: 58900
+1732948769584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58891/devtools/browser/7b8c0d04-a3a4-4cf9-8308-aa2bdaba752f
+1732948799242	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-JLJFWVDS10, line 576: Script terminated by timeout at:
+h.Uh@https://www.googletagmanager.com/gtag/js?id=G-JLJFWVDS10:576:487
+get@https://www.googletagmanager.com/gtag/js?id=G-JLJFWVDS10:575:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-JLJFWVDS10:575:87
+h.xl/c/<@https://www.googletagmanager.com/gtag/js?id=G-JLJFWVDS10:575:410
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1732948893309	Marionette	INFO	Stopped listening on port 58900
+Dynamically enable window occlusion 1
+2-b0fc-0c99c938ab45
+1732948840349	Marionette	INFO	Stopped listening on port 59033
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/Prompter.sys.mjs, line 1212: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1732948898391	geckodriver	INFO	Listening on 127.0.0.1:59129
+1732948901466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59130" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileoYvWLw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732948901841	Marionette	INFO	Marionette enabled
+1732948901973	Marionette	INFO	Listening on port 59140
+WebDriver BiDi listening on ws://127.0.0.1:59130
+Read port: 59140
+1732948902190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59130/devtools/browser/0be21b75-9884-4363-857a-fa5c6dea660e
+1732948905361	Marionette	INFO	Stopped listening on port 59140
+Dynamically enable window occlusion 1
+1732948941350	geckodriver	INFO	Listening on 127.0.0.1:59230
+1732948944434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile6WYqAN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732948944805	Marionette	INFO	Marionette enabled
+1732948944937	Marionette	INFO	Listening on port 59241
+Read port: 59241
+WebDriver BiDi listening on ws://127.0.0.1:59231
+1732948945013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59231/devtools/browser/2d3021cd-fe4d-4096-99d5-ba803cefa75c
+1732948948211	Marionette	INFO	Stopped listening on port 59241
+Dynamically enable window occlusion 1
+1732949011198	geckodriver	INFO	Listening on 127.0.0.1:59344
+1732949014253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59345" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileHy2kMy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732949014634	Marionette	INFO	Marionette enabled
+1732949014779	Marionette	INFO	Listening on port 59355
+WebDriver BiDi listening on ws://127.0.0.1:59345
+Read port: 59355
+1732949014997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59345/devtools/browser/2deaa676-5877-49eb-bce0-c4f7a8fd6ed2
+1732949028379	Marionette	INFO	Stopped listening on port 59355
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/Prompter.sys.mjs, line 1212: NS_ERROR_NOT_AVAILABLE: prompt aborted by user
+1732949826105	geckodriver	INFO	Listening on 127.0.0.1:59970
+1732949829181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile3NQzgG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732949829566	Marionette	INFO	Marionette enabled
+1732949829704	Marionette	INFO	Listening on port 59981
+WebDriver BiDi listening on ws://127.0.0.1:59971
+Read port: 59981
+1732949829923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59971/devtools/browser/e2ec0128-6be0-47e3-b667-0da00cd0e064
+1732949859738	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1732949872619	Marionette	INFO	Stopped listening on port 59981
+Dynamically enable window occlusion 1
+1732950748731	geckodriver	INFO	Listening on 127.0.0.1:61821
+1732950751792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61822" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileTSvDHv"
+1732950768308	geckodriver	INFO	Listening on 127.0.0.1:61845
+1732950771348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61846" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileu6N2Hw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732950771791	Marionette	INFO	Marionette enabled
+1732950771978	Marionette	INFO	Listening on port 61870
+WebDriver BiDi listening on ws://127.0.0.1:61846
+Read port: 61870
+1732950772071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 5662 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 5673 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 949 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 4778 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7503 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 4368 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1667090164, line 445: Script terminated by timeout at:
+PB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1667090164:445:102
+T@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1667090164:448:623
+ND@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1667090164:492:509
+OD/<@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1667090164:484:970
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1667090164:442:103
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 4700 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1667090504, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1667090504:444:218
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1667090504:442:29
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 80: Script terminated by timeout at:
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:506
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:756
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+dd.prototype.za@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:138
+n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:795
+n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:216
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:745
+md.prototype.za@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1840
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:734
+ld/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1645
+kd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1369
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:717
+ih/c/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:268
+n.Id@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:795
+n.subscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:745
+T/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:102:314
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+P/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:1197
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+Wd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:1544
+L/this.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:888
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:523
+ih/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:320
+Xa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:339
+Ua.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:49:127
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:48:483
+ih/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:131:292
+vc.prototype.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:218
+n.Gd@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 1623 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_831368950, line 187: Script terminated by timeout at:
+Jn@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_831368950:187:857
+uo.prototype.R@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_831368950:197:206
+yo@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_831368950:197:345
+zr@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_831368950:249:56
+yr@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_831368950:249:148
+ur.prototype.o@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_831368950:250:196
+xr/<@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_831368950:248:975
+l.Ug/</<@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_831368950:179:127
+l.Ud/<@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_831368950:178:700
+Lm/<@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_831368950:173:1176
+l.Ud@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_831368950:178:833
+l.Ug/<@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_831368950:179:102
+Lm/<@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_831368950:173:1220
+
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2068 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7085 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 3021 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 1834 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 1523 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 726 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-4S48PBY299, line 734: Script terminated by timeout at:
+h.Uh@https://www.googletagmanager.com/gtag/js?id=G-4S48PBY299:734:30
+get@https://www.googletagmanager.com/gtag/js?id=G-4S48PBY299:732:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-4S48PBY299:732:87
+h.xl/c/<@https://www.googletagmanager.com/gtag/js?id=G-4S48PBY299:732:410
+
+1732951451032	Marionette	INFO	Stopped listening on port 61870
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+toFrame@https://unpkg.com/@dotlottie/player-component@2.7.12/dist/lottie_svg-MJGYILXD-NRTSROOT.mjs:5:9227
+ut</</AnimationItem.prototype.setCurrentRawFrameValue@https://unpkg.com/@dotlottie/player-component@2.7.12/dist/lottie_svg-MJGYILXD-NRTSROOT.mjs:5:13693
+ut</</AnimationItem.prototype.advanceTime@https://unpkg.com/@dotlottie/player-component@2.7.12/dist/lottie_svg-MJGYILXD-NRTSROOT.mjs:5:11675
+p@https://unpkg.com/@dotlottie/player-component@2.7.12/dist/lottie_svg-MJGYILXD-NRTSROOT.mjs:5:18050
+
+1732951451096	Marionette	INFO	Stopped listening on port 62262
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+ntr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 5125 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 3983 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 3833 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 429 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2343 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7541 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 6964 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1176116265, line 444: Script terminated by timeout at:
+KB@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1176116265:444:218
+OB/this.aa@https://imasdk.googleapis.com/js/core/bridge3.677.0_en.html#goog_1176116265:442:29
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-4S48PBY299, line 732: Script terminated by timeout at:
+get@https://www.googletagmanager.com/gtag/js?id=G-4S48PBY299:732:115
+stop@https://www.googletagmanager.com/gtag/js?id=G-4S48PBY299:732:87
+h.xl/c/<@https://www.googletagmanager.com/gtag/js?id=G-4S48PBY299:732:410
+
+1732951450795	Marionette	INFO	Stopped listening on port 63716
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+/pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2616 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 5522 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 3702 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951223035	Marionette	INFO	Stopped listening on port 64078
+JavaScript warning: https://test-fsrv.bidsxchange.com/672, line 83: Script terminated by timeout at:
+adIframeMonitor<@https://test-fsrv.bidsxchange.com/672:83:7
+
+JavaScript warning: https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js, line 289: Script terminated by timeout at:
+init_tp/This.createIframe/adIframeMonitor<@https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js:289:10
+
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1732951260824	geckodriver	INFO	Listening on 127.0.0.1:64475
+1732951263866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64476" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0fmesd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732951264409	Marionette	INFO	Marionette enabled
+1732951264576	Marionette	INFO	Listening on port 64486
+WebDriver BiDi listening on ws://127.0.0.1:64476
+Read port: 64486
+1732951264854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 5809 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 461 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 560 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 5284 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2609 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 1404 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7233 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951282402	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732951282474	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732951283127	Marionette	INFO	Stopped listening on port 64486
+JavaScript warning: https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js, line 422: Script terminated by timeout at:
+init_tp/This.task<@https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js:422:20
+
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1732951336942	geckodriver	INFO	Listening on 127.0.0.1:64869
+1732951339996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64870" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilecaMJfH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732951340486	Marionette	INFO	Marionette enabled
+1732951340674	Marionette	INFO	Listening on port 64879
+WebDriver BiDi listening on ws://127.0.0.1:64870
+Read port: 64879
+1732951340923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7190 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 6286 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951353578	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 4027 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7327 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2409 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2551 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7575 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951359694	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732951359746	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732951360168	Marionette	INFO	Stopped listening on port 64879
+JavaScript warning: https://a.vdo.ai/core/assets/player/vdo.player.8.0.js, line 2: Script terminated by timeout at:
+requestAnimationFrame/t<@https://a.vdo.ai/core/assets/player/vdo.player.8.0.js:2:142506
+
+Dynamically enable window occlusion 1
+1732951404028	geckodriver	INFO	Listening on 127.0.0.1:65366
+1732951407349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65367" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileWZaCRc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732951407911	Marionette	INFO	Marionette enabled
+1732951408094	Marionette	INFO	Listening on port 65378
+WebDriver BiDi listening on ws://127.0.0.1:65367
+Read port: 65378
+1732951408348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 6535 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 4691 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 1039 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2414 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2509 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 6300 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951427329	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732951427442	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 3118 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951429376	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732951429521	Marionette	INFO	Stopped listening on port 65378
+JavaScript warning: https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}, line 13: Script terminated by timeout at:
+C.prototype.read/</<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:6935
+u/n/</<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:1759
+u/n/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:1864
+e/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:802
+e@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:581
+C.prototype.read@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:6716
+C.prototype.readAll/</<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:6592
+u/n/</<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:1759
+u/n/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:1864
+e/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:802
+e@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:581
+C.prototype.readAll@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:6450
+U.prototype.Start/</<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:12391
+u/n/</<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:1759
+u/n/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:1864
+e/<@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:802
+e@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:581
+U.prototype.Start@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:12034
+@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:12872
+@https://gum.criteo.com/syncframe?origin=criteoPrebidAdapter&topUrl=www.moneycontrol.com&gpp=#{%22bundle%22:%22DgVtsV9obFVxYVFPRyUyRkJPbjI0emZIMVN0T0JaQzJ6ODBqV2Y0Z0JLMHgzbzMyVlJyUVZVdktsQ05hZiUyRnRCUmE0ejJtb0l6ZDFSNHlFa2tMVUU5eUZoSlRaWmwyQWoxMjBqQjdoT05ZM0dCdkM0ME9Nd25LSEd0RTUxTEV3b0clMkZocWdrdCUyRlpyQkxFU01RcnNUMUszRHRmRVlVQSUzRCUzRA%22,%22cw%22:true,%22lsw%22:true,%22origin%22:%22criteoPrebidAdapter%22,%22requestId%22:%220.6877813806491624%22,%22tld%22:%22www.moneycontrol.com%22,%22topUrl%22:%22www.moneycontrol.com%22,%22version%22:%229_4_1%22}:13:12880
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1732951453903	geckodriver	INFO	Listening on 127.0.0.1:49486
+1732951456956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilebTHgX2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732951457409	Marionette	INFO	Marionette enabled
+1732951457570	Marionette	INFO	Listening on port 49496
+WebDriver BiDi listening on ws://127.0.0.1:49487
+Read port: 49496
+1732951457773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7162 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 3638 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2556 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 1436 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951472510	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732951472516	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2056 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951474950	Marionette	INFO	Stopped listening on port 49496
+JavaScript warning: https://stdb.bidsxchange.com/AdCode.js, line 15: Script terminated by timeout at:
+start_bsrvtagThreadHandler/bsrvtagThreadHandle<@https://stdb.bidsxchange.com/AdCode.js:15:7
+
+Dynamically enable window occlusion 1
+1732951701280	geckodriver	INFO	Listening on 127.0.0.1:50705
+1732951704350	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50706" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiledmaLhp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732951704728	Marionette	INFO	Marionette enabled
+1732951704875	Marionette	INFO	Listening on port 50717
+WebDriver BiDi listening on ws://127.0.0.1:50706
+Read port: 50717
+1732951705074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 3940 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 6967 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7261 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951721921	Marionette	INFO	Stopped listening on port 50717
+JavaScript warning: https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js, line 422: Script terminated by timeout at:
+init_tp/This.task<@https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js:422:20
+
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1732951772512	geckodriver	INFO	Listening on 127.0.0.1:51004
+1732951775579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile54RhzV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732951775973	Marionette	INFO	Marionette enabled
+1732951776119	Marionette	INFO	Listening on port 51014
+WebDriver BiDi listening on ws://127.0.0.1:51005
+Read port: 51014
+1732951776311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2193 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 973 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951793997	Marionette	INFO	Stopped listening on port 51014
+JavaScript warning: https://a.vdo.ai/core/assets/player/vdo.player.8.0.js, line 2: Script terminated by timeout at:
+listenForUserActivity_/<@https://a.vdo.ai/core/assets/player/vdo.player.8.0.js:2:320959
+
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1732951843788	geckodriver	INFO	Listening on 127.0.0.1:51320
+1732951846858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51321" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilejGWVcU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732951847241	Marionette	INFO	Marionette enabled
+1732951847383	Marionette	INFO	Listening on port 51333
+WebDriver BiDi listening on ws://127.0.0.1:51321
+Read port: 51333
+1732951847571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 556 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7098 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7569 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2155 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 2146 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7172 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951862107	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732951862143	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 7108 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951864689	Marionette	INFO	Stopped listening on port 51333
+JavaScript warning: https://stdb.bidsxchange.com/AdCode.js, line 15: Script terminated by timeout at:
+start_bsrvtagThreadHandler/bsrvtagThreadHandle<@https://stdb.bidsxchange.com/AdCode.js:15:7
+
+JavaScript warning: https://test-fsrv.bidsxchange.com/659, line 83: Script terminated by timeout at:
+adIframeMonitor<@https://test-fsrv.bidsxchange.com/659:83:7
+
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+1732951881949	geckodriver	INFO	Listening on 127.0.0.1:51671
+1732951885019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51672" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0cxy9i"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1732951885401	Marionette	INFO	Marionette enabled
+1732951885537	Marionette	INFO	Listening on port 51682
+WebDriver BiDi listening on ws://127.0.0.1:51672
+Read port: 51682
+1732951885731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.moneycontrol.com/mc/assets/js/charting_library-v22/charting_library/charting_library.js?v=33.51, line 1: TypeError: this._innerAPI() is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 3451 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 5982 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://d22swxawtpfyg.cloudfront.net/moneycontrol/sep-2024/scroll-intr-open/mc_sr_main.min.js, line 1: ReferenceError: pbjs is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 357 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 6160 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 4661 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 721 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/AZhFfPohrWQYsOIoYjrS8f8JOGLIZZSdCGNFz-TUQ28.js line 2 > eval line 4040 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1732951900521	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732951900562	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732951904072	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1732951911861	Marionette	INFO	Stopped listening on port 51682
+JavaScript warning: https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js, line 422: Script terminated by timeout at:
+init_tp/This.task<@https://bsrv.bidsxchange.com/codebase/bsrv_v2/templates_v2/STDB_HB/third-party-stdb/third-party-stdb_all_DSK_all_all.js:422:20
+
+Dynamically enable window occlusion 1
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown

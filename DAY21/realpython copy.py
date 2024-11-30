@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = 'https://unsplash.com/s/phptos/nature'
+url = 'https://unsplash.com/t/nature'
 
 reponse = requests.get(url)
 
@@ -9,12 +9,16 @@ soup = BeautifulSoup(reponse.text,'html.parser')
 #print(soup)
 
 images = soup.find_all('img',{'srcset':True})
+print(len(images))
+counter = 0
+for image in images:
+    imageurl = image
+    imageurl = imageurl['src']
+    print(imageurl)
 
-imageurl = images[-1]
-imageurl = imageurl['src']
+    imgdata = requests.get(imageurl).content
+    imgpath = "Image\sample"+str(counter)+".jpg"
 
-imgdata = requests.get(imageurl).content
-imgpath = "sample.jpg"
-
-with open(imgpath,'wb') as img_hndler:
-    img_hndler.write(imgdata)
+    with open(imgpath,'wb') as img_hndler:
+        img_hndler.write(imgdata)
+    counter+=1
