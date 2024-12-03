@@ -13,19 +13,22 @@ service = Service(driver_path)
 driver = webdriver.Firefox(service=service)
 driver.maximize_window()
 
-driver.get("https://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC")
-time.sleep(10)
-
-searchbox= driver.find_element(By.CLASS_NAME,"adv_hed")
-
-driver.execute_script("arguments[0].scrollIntoView(true);", searchbox)
-
-
-#driver.implicitly_wait(5)
-driver.save_screenshot("chart.png")
-
-
-
-print(driver.title)
-time.sleep(10)
+listOfLinks = [
+    "https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/adaniportsspecialeconomiczone/MPS",
+    "https://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC",
+    "https://www.moneycontrol.com/india/stockpricequote/leather-products/bataindia/BI01",
+    "https://www.moneycontrol.com/india/stockpricequote/glassglass-products/asahiindiaglass/AIG01"
+    
+]
+count = 1
+for link in listOfLinks:
+    driver.get(link)
+    time.sleep(10)
+    searchbox= driver.find_element(By.ID,"advchart")
+    driver.execute_script("arguments[0].scrollIntoView(true);", searchbox)
+    filename = link.split("/")[-1]
+    print(filename)
+    searchbox.screenshot(filename+".png")
+    time.sleep(10)
+    
 driver.quit()

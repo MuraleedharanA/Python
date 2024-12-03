@@ -17,5 +17,9 @@ print(author_obj.strip())
 quotes = soup.select(".quote .text")
 authors = soup.select(".quotes .author")
 
+fileContent = ''
+
 for each_quote,each_author in zip(quotes,author):
     print(each_quote.text,"-",each_author.text)
+    fileContent.join(each_quote.text,"-",each_author.text)
+

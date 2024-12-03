@@ -20,6 +20,7 @@ alert =driver.switch_to.alert
 alert.accept()
 
 driver.implicitly_wait(5)
+
 time.sleep(10)
 
 

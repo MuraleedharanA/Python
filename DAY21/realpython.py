@@ -11,3 +11,4 @@ soup = BeautifulSoup(reponse.text,'html.parser')
 titles = soup.find_all(class_='card-title')
 for title in titles:
     print(title.text)
+
