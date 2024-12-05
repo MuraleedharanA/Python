@@ -56,9 +56,11 @@ def getMovieDetailsIMDP(movieName):
 #Main Code
 mainDF = pd.DataFrame()
 option=0
+
 while(option!=4):
     print("Menu\n1. Get Movie Rating\n2. View all movies searched\n3. Save all movies to File\n4. Exit")
     option = int(input("Enter your option:"))
+
     if option==1:
             movieName = input("Enter Movie name to get details : ")
             moviedf = getMovieDetailsIMDP(movieName)
