@@ -12,6 +12,7 @@ import time
 from selenium.webdriver.common.keys import Keys
 import pandas as pd
 import streamlit as st
+import os
 
 mainDF = pd.DataFrame()
 
@@ -55,22 +56,20 @@ def getMovieDetailsIMDP(movieName):
 #StreamLit Main
 
 st.write("Menu")
-option=st.selectbox("Select your Operation :",("Select Option","Get Movie Rating","View all movies searched","Save all movies to File"),)
+option=st.selectbox("Select your Operation :",("Select Option","Get Movie Rating","View all movies searched"),)
 print(option)
 if option=="Get Movie Rating":
             movieName = st.text_input("Enter Movie name to get details : ","Movie Name")
             if movieName!="Movie Name":
                 moviedf = getMovieDetailsIMDP(movieName)
                 print(moviedf)
-                mainDF = mainDF.append(moviedf)
-                st.dataframe(mainDF, use_container_width=True)
+                if os.path.exists("Movie Rating.csv"):
+                        moviedf.to_csv("Movie Rating.csv",mode="a", index=False, header=False)
+                else:
+                        moviedf.to_csv("Movie Rating.csv",index=False)
+                st.dataframe(moviedf, use_container_width=True)
 
 elif option=="View all movies searched":
-            print(mainDF)
+            mainDF = pd.read_csv("Movie Rating.csv")
             st.dataframe(mainDF, use_container_width=True)
-
-elif option=="Save all movies to File":
-            st.write("Saving content to file - Movie Rating.csv")
-            print("Saving content to file - Movie Rating.csv")
-            mainDF.to_csv("Movie Rating.csv")
 
